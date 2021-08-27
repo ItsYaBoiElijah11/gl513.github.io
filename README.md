@@ -1,5 +1,5 @@
 # GL513.github.io
-##Hey! I'm GL.
+## Hey! I'm GL.
 I am an amateur web developer, application tester, theme maker, and more. /n
 I'm a huge android enthusiast and hacker, and hope to be a real android OS developer one day! :) /n
 One of the applications I am currently testing is (KeyMapper)[https://play.google.com/store/apps/details?id=io.github.sds100.keymapper&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1] by (sds100)[https://github.com/sds100/]. I would be glad to test your application too! /n

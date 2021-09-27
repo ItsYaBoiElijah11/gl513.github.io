@@ -1,2 +1,2 @@
-# gl513.github.io-development
- Prerelease of github pages site
+# gl513.github.io
+pages git
